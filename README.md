@@ -54,7 +54,7 @@
 **Visita mi portafolio: :briefcase:**
 
 <ul>
-  <li>Netlify: (https://cutt.ly/LcmOxwp)</li>
+  <li>Netlify: (https://portafolio-maxch78.netlify.app/)</li>
   <li>Linkedin: (https://www.linkedin.com/in/maximiliamchicano/)</li>
 </ul>
 <hr>
