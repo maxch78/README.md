@@ -1,7 +1,7 @@
 ![imagen](https://user-images.githubusercontent.com/72506306/114962356-86b07300-9e38-11eb-8c00-929abc9d8283.png)
 <br>
 <br>
-<p>Egresado Bootcamp “Desarrollo Front-End en VUE.js” y Publicista de profesión, con oficio de marketing digital en ecommerces de retailers.</p>
+<p>Egresado Bootcamp “Desarrollo Front-End en VUE.js” y Publicista de profesión, con oficio de marketing digital en los siguientes ecommerces: ripley.cl / lapolar.cl / corona.cl</p>
 <br>
 <p>Buscando trabajo, se reciben buenos datos y ofertas</p>
 <br>
