@@ -40,8 +40,8 @@
 **Skills DESIGN**
 
 <ol>
-  <li>HTML5 :white_check_mark: </li>
-  <li>CSS3 :white_check_mark: </li>
+  <li>PHOTOSHOP :white_check_mark: </li>
+  <li>ILLUSTRATOR :white_check_mark: </li>
 </ol>
 
 
