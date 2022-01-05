@@ -12,7 +12,7 @@
 <ol>
   <li>HTML5 :white_check_mark: </li>
   <li>CSS3 :white_check_mark: </li>
-  <li>BOOTSTRAP 4 :white_check_mark: </li>
+  <li>BOOTSTRAP :white_check_mark: </li>
   <li>SASS :white_check_mark: </li>
   <li>JQUERY :white_check_mark: </li>
   <li>JAVASCRIPT :white_check_mark: </li>
