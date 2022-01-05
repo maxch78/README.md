@@ -3,6 +3,8 @@
 <br>
 <p>Egresado Bootcamp “Desarrollo Front-End en VUE.js” y Publicista de profesión, con oficio de marketing digital en los siguientes ecommerces: ripley.cl / lapolar.cl / corona.cl</p>
 <br>
+<p>También trabajé para las siguientes agencias de internet: ayerviernes.com / icrossing.com / cardumen.cl / bluecompany.cl</p>
+<br>
 <p>Buscando trabajo, se reciben buenos datos y ofertas</p>
 <br>
 
