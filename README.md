@@ -17,9 +17,11 @@
   <li>JQUERY :white_check_mark: </li>
   <li>JAVASCRIPT :white_check_mark: </li>
   <li>NODE.JS :white_check_mark: </li>
+  <li>PHP :white_check_mark: </li>
   <li>VUE.JS :white_check_mark: </li>
   <li>GITHUB/DEPLOY :white_check_mark: </li>
   <li>FIREBASE/FIRESTORE :white_check_mark: </li>
+  <li>JEKYLL :white_check_mark: </li>
 </ol>
 
 **Skills UX**
