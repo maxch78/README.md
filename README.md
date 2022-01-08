@@ -53,6 +53,7 @@
   <li>ANALYTICS :white_check_mark: </li>
   <li>ADWORDS :white_check_mark: </li>
   <li>ADSENSE :white_check_mark: </li>
+  <li>Data Studio :white_check_mark: </li>
 </ol>
 
 **Visita mi portafolio: :briefcase:**
