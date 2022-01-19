@@ -1,10 +1,22 @@
 ![imagen](https://user-images.githubusercontent.com/72506306/114962356-86b07300-9e38-11eb-8c00-929abc9d8283.png)
 <br>
 <br>
-<p>Egresado Bootcamp “Desarrollo Front-End en VUE.js” y Publicista de profesión, con oficio de marketing digital en los siguientes ecommerces: ripley.cl / lapolar.cl / corona.cl</p>
+<p><b>Experiencia laboral como Desarrollador Front End</b> en <A HREF="www.desafiolatam.cl" target=”_blank”>Academia Desafío Latam</A></p>
+<p> En las siguientes tareas:</p>
+<li>Creación de landing pages para la promoción de Bootcamps en Programación, que buscan atraer y satisfacer la creciente demanda de programadores en
+ América Latina</li>
 <br>
-<p>También trabajé para las siguientes agencias de internet: ayerviernes.com / icrossing.com / cardumen.cl / bluecompany.cl</p>
+<li>Manutención “canal” CRM (eMailings masivos vía HubSpot) y creación de
+  campañas para la comunicación con potenciales “leads” estudiantes (Chile, Perú,
+ Argentina)</li>
 <br>
+<li>Creación y actualización de botones de pago mediante plataforma Flow para carreras, cursos y talleres</li>
+<br>
+<li>Generación de nuevas campañas con plataforma HubSpot vía creación de formularios integrados en sitio web academia, flujo de acciones, uso de workflow</li><br>
+<p><b>Experiencia laboral como Publicista en Marketing Digital & Ecommerces trabajando en agencias de internet como en retailers</b></p>
+<br>
+<li>Agencias de Internet: ayerviernes.com / icrossing.com / cardumen.cl / bluecompany.cl</p><br>
+<li>Retailers Chilenos: ripley.cl / lapolar.cl / corona.cl</p>
 <p>Buscando trabajo, se reciben buenos datos y ofertas</p>
 <br>
 
