@@ -1,7 +1,7 @@
 ![imagen](https://user-images.githubusercontent.com/72506306/114962356-86b07300-9e38-11eb-8c00-929abc9d8283.png)
 <br>
 <br>
-<p><b>Experiencia laboral como Desarrollador Front End</b> en <A HREF="https://desafiolatam.cl" target=”_blank”>Academia Desafío Latam</A></p>
+<p><b>Experiencia laboral como Desarrollador Front End</b> en <A HREF="https://desafiolatam.com" target=”_blank”>Academia Desafío Latam</A></p>
 <p> En las siguientes tareas:</p>
 <li>Creación de landing pages para la promoción de Bootcamps en Programación, que buscan atraer y satisfacer la creciente demanda de programadores en
  América Latina</li>
