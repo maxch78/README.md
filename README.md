@@ -41,6 +41,7 @@
 **Skills UX**
 
 <ol>
+  <li>ADOBE FIGMA :white_check_mark: </li>
   <li>ADOBE XD :white_check_mark: </li>
 </ol>
 
